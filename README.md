@@ -1,14 +1,3 @@
-# Eng Intern Challenge Fall - Winter 2025
-
-# **Note: In order for our submission automation to function correctly:**
-1. **Your Github email must match the email you submitted your Application with (if your Github email is different, we recommend creating a new Github profile with the email you created your application with)**
-2. **Have your email set to public on your Github Profile**
-3. **Do not apply any labels on your PR. We will mark your PR as `reviewed` with a label when it has been so. Marking this yourself will cause your PR to be skipped.**
-
-**If you have any questions, please reach out to `internprogram@shopify.com`**
-
----
-
 ## Braille Translator
 In this coding challenge you will create a terminal / command-line application that can translate Braille to English and vice versa. 
 
@@ -67,13 +56,4 @@ Braille (*/breɪl/ **BRAYL***) is a tactile writing system used by people who ar
 5. Feel free to run the test found in your language folder to ensure your code is correct
 6. Your application must output ***only*** the Braille/English string.
     - ie: `O.....` ***not*** `The Braille text is: O.....`
-
-## Submission
-Upon completion of the challenge, create a PR of your work and compare it against the original Assessment Repo's main branch. Submit a link to your PR in the "Take Home Submission Link" which was included in the Technical Challenge email instructions.
-
-**Note: In order for our submission automation to function correctly:**
-- Your Github email must match the email you submitted your Application with (if your Github email is different, we recommend creating a new Github profile with the email you created your application with)
-- Have your email set to public on your Github Profile
-- Do not apply any labels on your PR. We will mark your PR as `reviewed` with a label when it has been so. Marking this yourself will cause your PR to be skipped.
-
-This repo is designed to run a unit test against your work to ensure the correct string is outputted to the console when executing your code. 
+correct string is outputted to the console when executing your code. 
